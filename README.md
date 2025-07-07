@@ -1,4 +1,24 @@
-# Python-Libraries-for-Data-Analyst
-A curated collection of essential Python libraries and code examples for data analysis, covering tasks like data cleaning, visualization, statistics, and machine learning.
+# 📊 Python Libraries for Data Analysts
 
-This repository provides a well-organized collection of Python libraries and practical examples tailored for data analysts. It includes popular tools like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and others to perform tasks such as data preprocessing, exploration, visualization, and basic modeling.
+A curated collection of essential Python libraries and code examples for **data analysis**, covering tasks like **data cleaning**, **visualization**, **statistics**, and **machine learning**.
+
+---
+
+## 🧰 What's Inside?
+
+This repository includes practical examples using the most commonly used Python libraries in data analysis:
+
+| Category               | Libraries Used                                       |
+|------------------------|------------------------------------------------------|
+| 📦 Data Handling       | `pandas`, `numpy`                                    |
+| 📊 Visualization       | `matplotlib`, `seaborn`, `plotly`                    |
+| 📈 Statistics          | `scipy`, `statsmodels`                               |
+| 🤖 Machine Learning    | `scikit-learn`, `xgboost` (optional), `lightgbm`     |
+| 🧹 Data Cleaning       | `pandas`, `missingno`, `re`                          |
+| 📂 File I/O            | `openpyxl`, `csv`, `json`, `glob`, `os`             |
+| 📦 Utilities           | `datetime`, `warnings`, `argparse`, `tqdm`          |
+
+---
+
+## 📁 Folder Structure
+
